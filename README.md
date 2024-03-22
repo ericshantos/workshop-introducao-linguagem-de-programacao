@@ -11,8 +11,6 @@ Para conferir o restante do material, siga os links abaixo.
 ## Links
 [Link da apresentação: Canva](https://www.canva.com/design/DAF2zCEy_Aw/iLER0vf68zHH6gsWRlnapA/edit?utm_content=DAF2zCEy_Aw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[Google Drive](https://drive.google.com/drive/folders/1IvENCDCXAFQY02RxhdjIQaRPt1_ubkHm?usp=drive_link)
-
 ## Licença
 Esse projeto é distribuído sobre a [Creative Commons License](https://creativecommons.org/licenses/by/4.0/legalcode) - veja o arquivo
 [LICENSE](LICENSE) para mais informações.
